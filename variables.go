@@ -11,7 +11,7 @@ func main() {
     fmt.Println(b, c)
 
     b=c+b
-    fmt.Println(b, b,b,b)
+    fmt.Println(b, b,b,b,b)
 
     var d = true
     fmt.Println(d)
